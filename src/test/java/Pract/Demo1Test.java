@@ -8,6 +8,7 @@ public class Demo1Test {
 	public void appleTest()
 	{
 		System.out.println("appletest");
+		System.out.println("OrangeTest");
 	}
 	
 	
