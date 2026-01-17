@@ -8,5 +8,6 @@ public class DemoTest {
 	public void mangoTest()
 	{
 		System.out.println("mangotest");
+		System.out.println("GrapeTest");
 	}
 }
