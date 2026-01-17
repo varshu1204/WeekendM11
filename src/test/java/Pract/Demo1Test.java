@@ -7,8 +7,7 @@ public class Demo1Test {
 	@Test(groups = "smoke")
 	public void appleTest()
 	{
-		System.out.println("appletest");
-		System.out.println("OrangeTest");
+		System.out.println("Hi");
 	}
 	
 	
