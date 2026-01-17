@@ -9,5 +9,6 @@ public class DemoTest {
 	{
 		System.out.println("mangotest");
 		System.out.println("GrapeTest");
+		System.out.println("Pear");
 	}
 }
